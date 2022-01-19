@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heartbeats1983
 - 👀 I’m interested in Developing Web, Mobile Application & HRMS & Travel ERP
-- 🌱 I’m currently working onn Data Scraping
+- 🌱 I’m currently interested in Data Mining & Data Scraping
 - 💞️ I’m looking to work for Clients those needed Web or Mobile App, HRMS, Finance & Travel ERP requirement..
 - 📫 Any Query please contact : sks288888@gmail.com
 
